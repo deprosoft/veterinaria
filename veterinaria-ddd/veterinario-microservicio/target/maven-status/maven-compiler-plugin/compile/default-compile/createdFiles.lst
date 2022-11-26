@@ -1,0 +1,7 @@
+src/main/java/com/resources/VeterinarioController.class
+com/Application1.class
+src/main/java/com/domain/repository/VeterinarioRepository.class
+src/main/java/com/domain/gateway/VeterinarioGateway.class
+src/main/java/com/domain/service/VeterinarioService.class
+src/main/java/com/domain/repository/VeterinarioCrudRepository.class
+src/main/java/com/domain/model/entity/Veterinario.class

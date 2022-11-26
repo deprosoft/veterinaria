@@ -1,0 +1,7 @@
+/Users/jose/Java/veterinaria-ddd/veterinaria-microservicio/src/main/java/com/Application.java
+/Users/jose/Java/veterinaria-ddd/veterinaria-microservicio/src/main/java/com/domain/repository/VeterinariaRepository.java
+/Users/jose/Java/veterinaria-ddd/veterinaria-microservicio/src/main/java/com/domain/gateway/VeterinariaGateway.java
+/Users/jose/Java/veterinaria-ddd/veterinaria-microservicio/src/main/java/com/domain/repository/VeterinariaCrudRepository.java
+/Users/jose/Java/veterinaria-ddd/veterinaria-microservicio/src/main/java/com/domain/valueobject/VeterinarioVO.java
+/Users/jose/Java/veterinaria-ddd/veterinaria-microservicio/src/main/java/com/domain/model/entity/Veterinaria.java
+/Users/jose/Java/veterinaria-ddd/veterinaria-microservicio/src/main/java/com/domain/service/VeterinariaService.java
