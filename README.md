@@ -8,3 +8,6 @@ BD: mongodb
 Arquitectura: DDD
 
 
+#veterinaria-capas parte tres
+BD: MysQL
+Arquitectura: Capas
